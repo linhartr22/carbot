@@ -1,5 +1,6 @@
 I wanted to see what I would come up with building a robot on the cheap. I've been surprised at how 
-much I've learned from this project. I've really enjoyed building parts and after critical review re-designing them. This repo contains SketchUp drawings and Arduino Sketches I designed. I've 
+much I've learned from this project. I've really enjoyed building parts and after critical review 
+re-designing them. This repo contains SketchUp drawings and Arduino Sketches I designed. I've 
 approached this projects in steps and plan to add to it in a modular fashion, building the robot, 
 control movement, add sensors and algorythms.
 
