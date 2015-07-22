@@ -4,7 +4,7 @@ re-designing them. This repo contains SketchUp drawings and Arduino Sketches I d
 approached this projects in steps and plan to add to it in a modular fashion, building the robot, 
 control movement, add sensors and algorythms.
 
-I have a YouTube video of this project at http://youtu.be/pzRvD9gosbk
+I have a YouTube video of this project at https://youtu.be/yV30DO6NO2Y
 
 If you found this fun or interesting please make a small donation to my PayPal account at 
 https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U48JEW8HSQFM2. I have many more 
